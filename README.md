@@ -1,3 +1,3 @@
 # Tableau_Projects
 
-COVID-19 DASHBOARD WITH USEFULL INSIGHTS
+COVID-19 Project Dashboard
